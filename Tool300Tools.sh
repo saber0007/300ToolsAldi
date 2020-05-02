@@ -43,7 +43,7 @@ sleep 1
 echo -b $green"[#]> Aldi On Your System" |lolcat
 
 echo -b $green"[#]> See you Again" |lolcat
-figlet TUAN B4DUT | lolcat
+figlet Aldi | lolcat
 sleep 1
 exit
 }
@@ -2974,11 +2974,10 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
-00) echo "AUTHOR: TUAN B4DUT" | lolcat
-echo "TUAN B4DUT ON YOUR SYSTEM" | lolcat
+00) echo "AUTHOR: Aldi Kurniawan" | lolcat
 echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet TUAN B4DUT | lolcat
+figlet Aldi | lolcat
 exit
 ;;
 
